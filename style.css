@@ -1,0 +1,152 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header div{
+    width: 100%;
+    height: 100vh;
+   background-image: url(masthead.jpg);
+   background-size:cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+.header{
+   font-size: 40px;
+   text-align: center;
+   padding-top: 18%;
+   font-family: sans-serif;
+   color: rgb(49, 49, 49);
+   line-height: 70px;
+
+}
+.header p{
+    font-size: 30px;
+}
+.header a{
+    font-size: 20px;
+    background-color:rgb(29, 128, 159);
+    padding: 20px 30px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    margin-top: 60px;
+    text-decoration: none;
+}
+section div{
+    width: 100%;
+    height: 60vh;
+    
+}
+.section{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5%;
+    font-family: sans-serif;
+    color: rgb(49, 49, 49);
+    line-height: 70px;
+ 
+ }
+ .section p{
+     font-size: 18px;
+ }
+ .section .a{
+     font-size: 15px;
+     background-color:rgb(49, 49, 49);
+     padding: 20px 50px;
+      border: none;
+     color: white;
+     border-radius: 5px;
+     margin-top: 60px;
+     text-decoration: none;
+ }
+ .selection a{
+   
+    color:  rgb(29, 128, 159);
+}
+
+#services{
+    background-color: #1d808f;
+}
+#services .title-head {
+    text-align: center;
+    padding: 50px 0px;
+}
+
+#services .title-head h5{
+color: #ecb807;
+font-size: 12px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+#services .title-head h1{
+    color: white;
+    font-size: 32px;
+}
+#services .items{
+    text-align: center;
+
+}
+ #services .items .item {
+    display: inline-block;
+    margin: 20px;
+}
+
+#services .items .item span{
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: white;
+}
+#services .items .item span i{
+    line-height: 90px;
+    font-size: 22px;
+    color: #1d808f;
+}
+
+#services .items .item h2{
+font-size: 20px;
+margin-top: 10px;
+color: white;
+}
+#services .items .item p{
+    padding-top: 10px;
+font-size: 12px;
+color: white;
+padding-bottom: 15px;
+}
+.section2 div{
+    width: 100%;
+    height: 100vh;
+      background-image: url(bg.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+    .container2{
+        text-align: center;
+        padding-top: 230px;
+    }
+    .container2 h1{
+        width: 520px;
+        
+       margin-left: 400px;
+        
+        font-size: 60px;
+        font-family: sans-serif;
+        font-weight: 700;
+        color: rgb(37, 36, 36);
+    }
+    .container2 a{
+
+        padding: 25px 39px;
+       background-color: #1d809f;
+       color: white;
+        text-decoration: none;
+        border: none;
+        border-radius: 6px;
+        display: inline-block;
+        margin-top: 50px;
+    }
+
